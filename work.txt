@@ -1,0 +1,14 @@
+
+bhaveshnainani1
+Jun 21, 2023, 10:47 AM
+
+👋 Hey Denisn, can you help me with a website, I have the base version of the website in https://github.com/codewithsadee/doclab
+
+Followings needs to be done in the website
+1. Pages for Contact us, Blog and services need to be developed
+2. Make appointment button to lead to a book appointment page
+3. Instead of search doctors, hospitals,etc and location box need to change it to book appointment and call now buttons
+4. In the second fold, 6 specialities to be there instead of the current 4
+5. Specialities to be clickable in both 2nd and 4th section and a template page to be made for specialities and one for procedures
+6. Colour theme of the website to be changed to Blue instead of green
+7. Deploy in on vercel
