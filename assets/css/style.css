@@ -401,6 +401,7 @@ body.nav-active {
   z-index: 4;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .header.active {
@@ -419,6 +420,7 @@ body.nav-active {
 }
 
 .header .container {
+  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -634,6 +636,20 @@ body.nav-active {
 
 .about {
   padding-block-end: 0;
+}
+
+.about-part {
+  display: flex;
+  flex-direction: column;
+  display: none;
+  gap: 15px;
+  padding: 20px;
+}
+
+.about-part.active {
+  display: flex;
+  animation-name: fadeInLeft;
+  animation-duration: 1s;
 }
 
 .about .container {
