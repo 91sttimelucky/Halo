@@ -9,6 +9,67 @@ section.speciality {
   padding-top: 100px;
 }
 
+section.speciality .popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.63);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  z-index: 999;
+  display: none;
+}
+
+section.speciality .popup.show {
+  display: flex;
+  animation-name: fadeIn;
+  animation-duration: 1s;
+}
+
+section.speciality .popup-content {
+  max-width: 450px;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 20px;
+  position: relative;
+  isolation: isolate;
+}
+
+section.speciality .popup-content .close-popup {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+section.speciality .popup-content form {
+  width: 100%;
+}
+
+section.speciality .popup form a {
+  justify-content: center;
+  width: 100%;
+}
+
 section.speciality .wrapper {
   width: 100%;
   display: flex;
@@ -45,9 +106,14 @@ section.speciality .wrapper.hero-wrapper h1 {
   color: #333;
 }
 
-section.speciality .wrapper a {
-  min-width: 150px;
-  padding: 5px 20px;
+section.speciality .wrapper.wrapper.hero-wrapper a {
+  padding: 0 20px;
+}
+
+section.speciality .wrapper a,
+section.speciality .popup a {
+  width: fit-content;
+  min-height: 60px;
   border-radius: 50px;
   background-color: orangered;
   font-size: 18px;
@@ -97,16 +163,15 @@ section.speciality .list-item {
   display: flex;
   align-items: center;
   gap: 20px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
 }
 
 section.speciality .list-item::before {
   content: "";
-  width: 25px;
-  height: 30px;
-  border-top-left-radius: 50px;
-  border-bottom-left-radius: 50px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
   background-color: var(--clr-primary_a25);
 }
 
@@ -172,7 +237,7 @@ section.speciality .listing-groups {
   gap: 20px;
 }
 
-section.speciality .listing-groups .list-item::before {
+/* section.speciality .listing-groups .list-item::before {
   width: 30px;
   height: 30px;
   border-top-left-radius: 0;
@@ -180,28 +245,16 @@ section.speciality .listing-groups .list-item::before {
   background-color: transparent;
   background-image: url("../images/tick.png");
   background-size: contain;
-}
+} */
 
 section.speciality .listing-groups .list {
   padding: 30px;
   border-radius: 30px;
-}
-
-section.speciality .listing-groups .list:nth-child(1) {
-  background-color: rgb(249, 245, 239);
-}
-section.speciality .listing-groups .list:nth-child(2) {
-  background-color: rgb(235, 249, 243);
-}
-section.speciality .listing-groups .list:nth-child(3) {
-  background-color: rgb(238, 238, 253);
-}
-section.speciality .listing-groups .list:nth-child(4) {
-  background-color: rgb(251, 250, 249);
+  background-color: var(--alice-blue);
 }
 
 section.speciality .book-appointment {
-  background-color: beige;
+  background-color: var(--alice-blue);
 }
 
 section.speciality h1 {
@@ -293,6 +346,10 @@ section.speciality .doctor-img {
   overflow: hidden;
 }
 
+section.speciality .doctor-img img {
+  object-position: top;
+}
+
 section.speciality .doctor-content {
   width: calc(100% - 170px);
   display: flex;
@@ -309,9 +366,10 @@ section.speciality .doctor-content .row {
 section.speciality .doctor-content .row .rating {
   display: flex;
   gap: 10px;
+  align-items: center;
 }
 
-section.speciality .doctor-content .row .rating span {
+section.speciality .doctor-content .row .rating i {
   color: orangered;
 }
 
@@ -473,11 +531,17 @@ section.speciality .testimony .video iframe {
 
 section.speciality .cta-banner {
   flex-direction: column;
+  align-items: center;
+
   background-color: var(--rich-black-fogra-29);
 }
 
 section.speciality .cta-banner h1 {
   color: white;
+}
+
+section.speciality .cta-banner .link-group {
+  justify-content: center;
 }
 
 @media (max-width: 800px) {
@@ -555,6 +619,15 @@ section.speciality .cta-banner h1 {
 }
 
 @media (max-width: 600px) {
+  section.speciality .popup {
+    padding: 10px;
+    justify-content: center;
+  }
+
+  section.speciality .popup-content {
+    padding: 0;
+  }
+
   section.speciality .impact-metrics {
     flex-direction: column;
   }

@@ -8,3 +8,15 @@ accordions.forEach((accordion) => {
     accordion.classList.toggle("open");
   });
 });
+
+let popup = document.querySelector(".popup");
+let closePopupBtn = document.querySelector(".close-popup");
+let popupContent = document.querySelector(".popup-content");
+
+window.onload = function () {
+  popup.classList.toggle("show");
+};
+
+closePopupBtn.addEventListener("click", () => {
+  popup.classList.toggle("show");
+});

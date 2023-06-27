@@ -1,14 +1,13 @@
-/*-----------------------------------*\
-  #main.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
+@font-face {
+  font-family: "Rubik";
+  src: url("../fonts/Rubik-VariableFont_wght.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Oswald";
+  src: url("../fonts/Oswald-VariableFont_wght.ttf");
+  font-display: swap;
+}
 
 :root {
   /**
@@ -357,7 +356,7 @@ body.nav-active {
   background-color: var(--verdigris);
   display: grid;
   place-items: center;
-  z-index: 6;
+  z-index: 1000;
   transition: var(--transition-1);
 }
 
