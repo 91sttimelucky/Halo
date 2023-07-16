@@ -363,69 +363,12 @@
                         </tr>
                     </table>
                 </div>
+
                 <div class="wrapper doctors">
                     <h1>Our doctors</h1>
-                    <div class="doctor">
-                        <div class="doctor-img">
-                            <img src="./assets/images/doctor-2.jpg" alt="">
-                        </div>
-                        <div class="doctor-content">
-                            <div class="row">
-                                <h3>John doe</h3>
-                                <div class="rating">
-                                    <i class="fa-solid fa-star"></i>
-                                    4.2
-                                </div>
-                            </div>
-                            <p>Ms - General surgery</p>
-                            <p>25 Years of experience</p>
-                            <div class="link-group">
-                                <a href="tel:+919947993876">Contact clinic</a>
-                                <a href="./book-appointment.html">Book appointment</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="doctor">
-                        <div class="doctor-img">
-                            <img src="./assets/images/doctor-3.jpg" alt="">
-                        </div>
-                        <div class="doctor-content">
-                            <div class="row">
-                                <h3>John doe</h3>
-                                <div class="rating">
-                                    <i class="fa-solid fa-star"></i>
-                                    4.2
-                                </div>
-                            </div>
-                            <p>Ms - General surgery</p>
-                            <p>25 Years of experience</p>
-                            <div class="link-group">
-                                <a href="tel:+919947993876">Contact clinic</a>
-                                <a href="./book-appointment.html">Book appointment</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="doctor">
-                        <div class="doctor-img">
-                            <img src="./assets/images/doctor-2.jpg" alt="">
-                        </div>
-                        <div class="doctor-content">
-                            <div class="row">
-                                <h3>John doe</h3>
-                                <div class="rating">
-                                    <i class="fa-solid fa-star"></i>
-                                    4.2
-                                </div>
-                            </div>
-                            <p>Ms - General surgery</p>
-                            <p>25 Years of experience</p>
-                            <div class="link-group">
-                                <a href="tel:+919947993876">Contact clinic</a>
-                                <a href="./book-appointment.html">Book appointment</a>
-                            </div>
-                        </div>
-                    </div>
+                    <!-- The fetched doctor data will be appended here -->
                 </div>
+                
 
                 <h1 style="text-align: center;">What is pulmonology</h1>
                 <div class="wrapper def">
@@ -600,34 +543,43 @@
                 </div>
             </section>
 
-
-
+            <script>
+                fetch('doctors.json')
+                    .then(response => response.json())
+                    .then(doctors => {
+                        const doctorsSection = document.querySelector('.doctors');
+                        doctors.forEach(doctor => {
+                            const doctorElement = document.createElement('div');
+                            doctorElement.classList.add('doctor');
+            
+                            const doctorHTML = `
+                                <div class="doctor-img">
+                                    <img src="${doctor.image}" alt="">
+                                </div>
+                                <div class="doctor-content">
+                                    <div class="row">
+                                        <h3>${doctor.name}</h3>
+                                        <div class="rating">
+                                            <i class="fa-solid fa-star"></i>
+                                            ${doctor.rating}
+                                        </div>
+                                    </div>
+                                    <p>${doctor.speciality}</p>
+                                    <p>${doctor.experience} Years of experience</p>
+                                    <div class="link-group">
+                                        <a href="tel:${doctor.contact}">Contact clinic</a>
+                                        <a href="${doctor.appointment_link}">Book appointment</a>
+                                    </div>
+                                </div>
+                            `;
+            
+                            doctorElement.innerHTML = doctorHTML;
+                            doctorsSection.appendChild(doctorElement);
+                        });
+                    });
+            </script>
+            
             <!-- SERVICES SECTION -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         </article>
     </main>

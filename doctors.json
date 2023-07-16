@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Dr. Gaurav R",
+        "rating": 4.2,
+        "speciality": "MS - General surgery",
+        "experience": "25 Years",
+        "image": "./assets/images/doctor-2.jpg",
+        "contact": "+919947993876",
+        "appointment_link": "./book-appointment.html"
+    },
+    {
+        "name": "Dr. Jaya K",
+        "rating": 4.5,
+        "speciality": "MS - Piles Surgery",
+        "experience": "20 Years",
+        "image": "./assets/images/doctor-3.jpg",
+        "contact": "+919947993876",
+        "appointment_link": "./book-appointment.html"
+    },
+    {
+        "name": "Dr. Krish P",
+        "rating": 4.5,
+        "speciality": "MS - Piles Surgery",
+        "experience": "20 Years",
+        "image": "./assets/images/doctor-2.jpg",
+        "contact": "+919947993876",
+        "appointment_link": "./book-appointment.html"
+    }
+]
