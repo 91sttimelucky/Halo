@@ -2,6 +2,16 @@
   background-color: var(--rich-black-fogra-29);
 }
 
+.visually-hidden {
+  position: absolute;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
 section.speciality {
   min-height: 100vh;
   display: flex;
@@ -88,7 +98,7 @@ section.speciality .wrapper.hero-wrapper {
 }
 
 section.speciality .wrapper.hero-wrapper::after {
-  background-image: url("../images/doctor-1.png");
+  background-image: url("../images/doctor_disease.webp");
   background-position: bottom;
   background-size: contain;
   background-repeat: no-repeat;
