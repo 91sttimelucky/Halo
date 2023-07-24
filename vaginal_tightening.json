@@ -1,0 +1,55 @@
+{
+  "speciality": {
+    "title": "Best Vaginal Tightening treatment in India",
+    "listItems": ["Non-Surgical & Surgical Methods", "Experienced Professionals", "Minimal Discomfort", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Procedures"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Non-Surgical & Surgical Methods", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Increased Comfort", "Quick Recovery", "Minimal Scarring", "Improved Intimacy"]}
+    ,
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Non-Surgical Vaginal Tightening & Surgical Vaginal Tightening",
+    "headers": ["", "Non-Surgical Treatment", "Surgical Treatment"],
+    "rows": [
+      {"header": "Procedure", "values": ["Laser or Radiofrequency", "Vaginoplasty"]},
+      {"header": "Recovery Time", "values": ["Shorter", "Longer"]},
+      {"header": "Pain Level", "values": ["Lower", "Higher"]},
+      {"header": "Duration of Results", "values": ["Temporary", "Permanent"]},
+      {"header": "Risk of Complications", "values": ["Lower", "Higher"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Vaginal Tightening?",
+    "content": "Vaginal tightening is a procedure aimed at enhancing the tightness, tone, and control of the vaginal muscles, which may have been affected by childbirth, aging, or other factors. This can be done using non-surgical methods such as laser or radiofrequency treatments, or through surgical procedures like vaginoplasty.",
+    "image": "./assets/images/vaginal-tightening.jpg"
+  },
+  "symptoms": {
+    "title": "Indications",
+    "listItems": ["Loose vaginal muscles", "Reduced sexual satisfaction", "Bladder leakage", "Feeling of vaginal heaviness"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the patient's goals, there are different treatment options available for vaginal tightening. These include non-surgical methods like laser or radiofrequency treatments, and surgical procedures like vaginoplasty.",
+    "listItems": ["Non-surgical vaginal tightening", "Surgical vaginal tightening"]}
+  ,
+  "prevention": {
+    "title": "Maintaining Results",
+    "listItems": ["Kegel exercises", "Healthy lifestyle", "Repeating non-surgical treatments", "Post-operative care for surgery"]}
+}

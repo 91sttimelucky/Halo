@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Hip Replacement in India",
+    "listItems": ["Latest surgical techniques", "Customized implants", "Minimal Pain", "Quick Recovery", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest Techniques", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgery Benefits",
+      "listItems": ["High Precision", "Quick Recovery", "Improved Mobility", "Increased Quality of Life"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Hip Replacement & Latest Hip Replacement Techniques",
+    "headers": ["", "Traditional Replacement", "Latest Techniques"],
+    "rows": [
+      {"header": "Implant Customization", "values": ["Limited", "High"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Longevity of the Implant", "values": ["Shorter", "Longer"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Hip Replacement?",
+    "content": "Hip replacement, also known as hip arthroplasty, is a surgical procedure in which the damaged parts of the hip joint are replaced with artificial implants. This procedure is performed to relieve pain, improve mobility, and increase the quality of life for patients with severe hip arthritis or injury.",
+    "image": "./assets/images/hip_replacement.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Severe hip pain", "Swelling and stiffness", "Limited mobility", "Decreased quality of life"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment options for hip pain vary depending on the severity of the arthritis or injury. In some cases, conservative therapies such as medication, physical therapy, and lifestyle modifications may be recommended. However, in more severe cases, hip replacement surgery may be the best option.",
+    "listItems": ["Medication", "Physical therapy", "Lifestyle modifications", "Hip replacement surgery"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Healthy diet", "Regular exercise", "Maintaining a healthy weight", "Timely medical checkups"]
+  }
+}

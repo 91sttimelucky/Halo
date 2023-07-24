@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Gynecomastia treatment in India",
+    "listItems": ["Advanced surgical methods", "Latest technology", "Minimal pain", "High success rate", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Minimal Pain", "No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgical Benefits",
+      "listItems": ["High Precision", "Quick Healing", "Low Infection Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Gynecomastia Surgery & Latest Surgical Techniques",
+    "headers": ["", "Traditional Surgery", "Latest Techniques"],
+    "rows": [
+      {"header": "Incisions", "values": ["Larger", "Smaller"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Gynecomastia?",
+    "content": "Gynecomastia is the enlargement of male breast tissue, which can lead to swelling, tenderness, and embarrassment. It can affect one or both breasts, and can result from hormonal imbalances, obesity, or the use of certain medications. Surgical treatment of gynecomastia involves removing excess breast tissue and restoring the chest to a more natural appearance.",
+    "image": "./assets/images/gynecomastia.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Enlarged breast tissue", "Tenderness", "Painful nipples", "Swelling in breast area"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment options for gynecomastia include medication, lifestyle changes, and surgical intervention. The best treatment for gynecomastia depends on the severity of the condition, the cause, and the patient's preferences.",
+    "listItems": ["Medication", "Lifestyle changes", "Liposuction", "Mastectomy"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Maintaining a healthy weight", "Avoiding steroids and drugs causing gynecomastia", "Regular exercise", "Manage underlying medical conditions"]
+  }
+}

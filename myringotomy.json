@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Myringotomy Treatment in India",
+    "listItems": ["Advanced Treatments", "USFDA approved procedure", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Modern Techniques", "Personalized Care", "Low Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Myringotomy & Latest Myringotomy",
+    "headers": ["", "Traditional Myringotomy", "Latest Myringotomy"],
+    "rows": [
+      {"header": "Procedure", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Myringotomy?",
+    "content": "Myringotomy is a surgical procedure that involves creating a small incision in the eardrum to allow fluid to drain from the middle ear. This procedure is often performed to treat chronic ear infections or conditions related to fluid buildup in the middle ear. Latest techniques, such as endoscopic myringotomy, offer a minimally invasive approach compared to traditional procedures.",
+    "image": "./assets/images/myringotomy.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Hearing loss", "Recurrent ear infections", "Ear pain and pressure", "Speech and language problems"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for middle ear conditions may involve medications, such as antibiotics or steroids, or surgery in more severe cases. If surgery is required, modern techniques like endoscopic myringotomy offer less invasive alternatives.",
+    "listItems": ["Medications", "Traditional myringotomy", "Endoscopic myringotomy", "Tympanostomy tubes (ear tubes)"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Good personal hygiene", "Avoiding allergens", "Proper ear care and cleaning", "Stay well-hydrated"]
+  }
+}

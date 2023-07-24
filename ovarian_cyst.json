@@ -1,0 +1,55 @@
+{
+  "speciality": {
+    "title": "Best Ovarian Cyst treatment in India",
+    "listItems": ["Minimally Invasive Methods", "Experienced Professionals", "Minimal Discomfort", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Procedures"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Minimally Invasive Methods", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Rapid Recovery", "Reduced Pain", "Low Complication Risk", "Minimal Scarring"]}
+    ,
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Conservative Management & Surgical Treatment",
+    "headers": ["", "Conservative Management", "Surgical Treatment"],
+    "rows": [
+      {"header": "Method", "values": ["Observation", "Laparoscopy or Laparotomy"]},
+      {"header": "Recovery Time", "values": ["-", "Shorter for laparoscopy, longer for laparotomy"]},
+      {"header": "Pain Level", "values": ["-", "Mild to Moderate"]},
+      {"header": "Outcome", "values": ["Waiting for the spontaneous resolution of a cyst", "Removal of cyst"]},
+      {"header": "Risk of Complications", "values": ["Lower", "Higher"]}
+    ]
+  },
+  "definition": {
+    "title": "What is an Ovarian Cyst?",
+    "content": "An ovarian cyst is a fluid-filled sac that develops in or on the surface of an ovary. Most ovarian cysts are harmless and resolve on their own, while some may require treatment if they grow too large, cause pain, or have an increased risk of complications. Treatment options range from conservative management to surgical removal.",
+    "image": "./assets/images/ovarian-cyst.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Abdominal pain", "Bloating", "Pelvic pain", "Irregular periods"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the size and type of ovarian cyst, as well as the patient's symptoms and age, there are different treatment options available. These include conservative management through observation, and surgical treatments like laparoscopy or laparotomy.",
+    "listItems": ["Conservative management", "Surgical removal"]}
+  ,
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Regular pelvic exams", "Tracking menstrual cycle", "Maintaining a healthy weight", "Avoiding excessive caffeine or alcohol"]}
+}

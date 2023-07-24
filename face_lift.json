@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Facelift in India",
+    "listItems": ["Advanced surgical methods", "Latest technology", "Natural look and feel", "Experienced surgeons", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Natural Look & Feel", "Customized Procedure", "Minimally Invasive Options", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgical Benefits",
+      "listItems": ["High Precision", "Quick Recovery", "Low Infection Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Facelift & Minimally Invasive Facelift",
+    "headers": ["", "Traditional Facelift", "Minimally Invasive Facelift"],
+    "rows": [
+      {"header": "Procedure", "values": ["Full surgical", "Smaller incisions or non-surgical"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Scarring", "values": ["More likely", "Less likely"]},
+      {"header": "Anaesthesia", "values": ["General", "Local"]},
+      {"header": "Duration of Results", "values": ["Longer-lasting", "May require follow-up treatments"]}
+    ]
+  },
+  "definition": {
+    "title": "What is a Facelift?",
+    "content": "A facelift, also known as a rhytidectomy, is a surgical procedure that improves visible signs of aging in the face and neck. It tightens and removes sagging skin, repositions underlying tissues, and smooths out wrinkles and lines, resulting in a more youthful and rejuvenated appearance.",
+    "image": "./assets/images/facelift.jpg"
+  },
+  "symptoms": {
+    "title": "Candidates for Facelift",
+    "listItems": ["Sagging or loose skin", "Deep wrinkles and lines", "Loss of skin elasticity", "Signs of aging in the face and neck"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "There are several facelift techniques to choose from, ranging from traditional surgical procedures to minimally invasive or non-surgical methods. The best approach depends on the patient's preferences, desired results, and the extent of the signs of aging.",
+    "listItems": ["Traditional facelift", "Mini facelift", "Thread lift", "Non-surgical facelift"]
+  },
+  "prevention": {
+    "title": "Maintaining Results",
+    "listItems": ["Healthy lifestyle habits", "Protecting your skin from the sun", "Regular skincare routine", "Avoid smoking"]
+  }
+}

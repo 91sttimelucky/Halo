@@ -18,18 +18,23 @@
   -->
     <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
 
+    <!-- 
+    - google font link
+  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <!-- 
     - custom css link
   -->
-    <link rel="stylesheet" href="./assets/css/critical_style_disease.css">
-  
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/speciality.css">
 
 
     <!-- 
     - preload images
   -->
-    <link rel="preload" as="image" href="./assets/images/doctor_disease.webp">
+    <link rel="preload" as="image" href="./assets/images/hero-banner.png">
+    <link rel="preload" as="image" href="./assets/images/hero-bg.png">
 
 </head>
 
@@ -43,23 +48,7 @@
         <div class="circle"></div>
     </div>
 
-    <script>
-      function loadCSS(href) {
-          var cssLink = document.createElement("link");
-          cssLink.href = href;
-          cssLink.rel = "stylesheet";
-          cssLink.type = "text/css";
-          document.getElementsByTagName("head")[0].appendChild(cssLink);
-      }
-
-      window.onload = function() {
-          loadCSS("./assets/css/style.css");
-          loadCSS("./assets/css/speciality.css");
-          loadCSS("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
-      };
-  </script>
-
-
+    
 
 <!-- HEADER -->
 
@@ -482,6 +471,213 @@
 
 
 
+<!-- FOOTER -->
+
+<footer class="footer" style="background-image: url('./assets/images/footer-bg.png')">
+    <div class="container">
+
+        <div class="section footer-top">
+
+            <div class="footer-brand" data-reveal="bottom">
+
+                <a href="#" class="logo">
+                    <img src="./assets/images/logo12.svg" width="136" height="46" loading="lazy" alt="Halo plus home">
+                </a>
+
+                <ul class="contact-list has-after">
+
+                    <li class="contact-item">
+
+                        <div class="item-icon">
+                            <ion-icon name="mail-open-outline"></ion-icon>
+                        </div>
+
+                        <div>
+                            <p>
+                                Main Email : <a href="contact@haloplus.in"
+                                    class="contact-link">contact@&shy;haloplus.in</a>
+                            </p>
+
+                            <p>
+                                Inquiries : <a href="mailto:info@haloplus.in" class="contact-link">info@haloplus.in</a>
+                            </p>
+                        </div>
+
+                    </li>
+
+                    <li class="contact-item">
+
+                        <div class="item-icon">
+                            <ion-icon name="call-outline"></ion-icon>
+                        </div>
+
+                        <div>
+                            <p>
+                                Office Telephone : <a href="tel:+919947389878"
+                                    class="contact-link">+919947389878</a>
+                            </p>
+
+                            <p>
+                                Mobile : <a href="tel:+919947389878" class="contact-link">+919947389878</a>
+                            </p>
+                        </div>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+            <div class="footer-list" data-reveal="bottom">
+
+                <p class="headline-sm footer-list-title">About Us</p>
+
+                <p class="text">
+                    Halo plus brings you the most advanced care at affordable rates
+                </p>
+
+                <address class="address">
+                    <ion-icon name="map-outline"></ion-icon>
+
+                    <span class="text">
+                        2416 Infantry road <br>
+                        Bangalore 560001, KA
+                    </span>
+                </address>
+
+            </div>
+
+            <ul class="footer-list" data-reveal="bottom">
+
+                <li>
+                    <p class="headline-sm footer-list-title">Services</p>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Conditions</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Listing</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">How It Works</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">What We Offer</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Latest News</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Contact Us</a>
+                </li>
+
+            </ul>
+
+            <ul class="footer-list" data-reveal="bottom">
+
+                <li>
+                    <p class="headline-sm footer-list-title">Useful Links</p>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Conditions</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Terms of Use</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Our Services</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">Join as a Doctor</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">New Guests List</a>
+                </li>
+
+                <li>
+                    <a href="#" class="text footer-link">The Team List</a>
+                </li>
+
+            </ul>
+
+            <div class="footer-list" data-reveal="bottom">
+
+                <p class="headline-sm footer-list-title">Subscribe</p>
+
+                <form action="" class="footer-form">
+                    <label for="email" class="visually-hidden">Email</label>
+                    <input type="email" id="email" name="email" placeholder="Email" class="input-field title-lg">
+                    <button type="submit" class="btn has-before title-md">Subscribe</button>
+                </form>
+                
+
+                <p class="text">
+                    Get the latest updates via email. Any time you may unsubscribe
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="footer-bottom">
+
+            <p class="text copyright">
+                &copy; Haloplus 2023 | All Rights Reserved
+            </p>
+
+            <ul class="social-list">
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-facebook"></ion-icon>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-google"></ion-icon>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-linkedin"></ion-icon>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#" class="social-link">
+                        <ion-icon name="logo-pinterest"></ion-icon>
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+</footer>
+
+
+
+
 
   <!-- 
     - #BACK TO TOP
@@ -503,9 +699,8 @@
   <!-- 
     - ionicon link
   -->
-  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js" defer></script>
-  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js" defer></script>
-
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 </body>
 

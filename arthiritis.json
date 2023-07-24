@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Arthritis Treatment in India",
+    "listItems": ["Latest treatment options", "Individualized approach", "Pain management", "Improved mobility", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest Techniques", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Pain Relief", "Improved Mobility", "Long-term Management", "Increased Quality of Life"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Arthritis Treatment & Latest Arthritis Treatment Techniques",
+    "headers": ["", "Traditional Treatment", "Latest Techniques"],
+    "rows": [
+      {"header": "Medications", "values": ["Limited", "Expanded options"]},
+      {"header": "Treatment Approach", "values": ["One-size-fits-all", "Individualized"]},
+      {"header": "Physical Therapy", "values": ["Standard", "Advanced techniques"]},
+      {"header": "Surgical Options", "values": ["More invasive", "Less invasive"]},
+      {"header": "Long-term Results", "values": ["Variable", "Improved"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Arthritis?",
+    "content": "Arthritis is a group of over 100 different conditions that cause inflammation in the joints, leading to pain, stiffness, and reduced mobility. The two most common types of arthritis are osteoarthritis and rheumatoid arthritis. Treatment for arthritis primarily focuses on managing symptoms, slowing disease progression, and maintaining overall joint health.",
+    "image": "./assets/images/arthritis.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Joint pain", "Stiffness", "Swelling", "Reduced range of motion"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment options for arthritis vary depending on the type and severity of the condition. A combination of medication, physical therapy, lifestyle modifications, and sometimes surgery may be recommended to alleviate symptoms and improve the patient's quality of life.",
+    "listItems": ["Medications", "Physical therapy", "Lifestyle modifications", "Surgery (in severe cases)"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Maintain a healthy weight", "Regular exercise", "Protect your joints", "Timely medical checkups"]
+  }
+}

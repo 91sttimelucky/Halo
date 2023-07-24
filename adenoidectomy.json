@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Adenoidectomy Treatment in India",
+    "listItems": ["Advanced Treatments", "USFDA approved procedure", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Modern Techniques", "Personalized Care", "Low Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Adenoidectomy & Latest Adenoidectomy",
+    "headers": ["", "Traditional Adenoidectomy", "Latest Adenoidectomy"],
+    "rows": [
+      {"header": "Procedure", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Adenoidectomy?",
+    "content": "Adenoidectomy is a surgical procedure to remove the adenoids, which are small gland-like structures located at the back of the nasal cavity. They help fight off infections. Adenoidectomy is commonly performed in children who experience chronic ear or sinus infections, breathing problems, or obstructive sleep apnea. Latest techniques, such as minimally invasive adenoidectomy, offer improved recovery and reduced risks compared to traditional methods.",
+    "image": "./assets/images/adenoidectomy.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Recurrent ear infections", "Nasal obstruction", "Snoring and sleep disturbances", "Breathing problems", "Chronic sinusitis"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for adenoid-related issues may involve medication, such as antibiotics or steroids. In cases where medication is not effective or adenoid enlargement causes severe problems, adenoidectomy may be required. Several techniques are available, including traditional and latest adenoidectomy.",
+    "listItems": ["Medications", "Traditional adenoidectomy", "Minimally invasive adenoidectomy", "Endoscopic adenoidectomy"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Good personal hygiene", "Proper ear and throat care", "Adequate rest and sleep", "Strengthen immune system"]
+  }
+}

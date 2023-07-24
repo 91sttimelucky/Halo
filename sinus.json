@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Sinus Treatment in India",
+    "listItems": ["Advanced Treatments", "USFDA approved procedure", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Modern Techniques", "Personalized Care", "Low Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Sinus Surgery & Latest Sinus Surgery",
+    "headers": ["", "Traditional Surgery", "Latest Surgery"],
+    "rows": [
+      {"header": "Procedure", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Sinus?",
+    "content": "A sinus is a hollow cavity within the bones of the skull or face, which is lined with a thin, moist tissue called the mucosa. Sinusitis is an inflammation of these cavities, often due to infection, which can cause symptoms such as pain, congestion, and difficulty breathing. Latest treatments, like functional endoscopic sinus surgery (FESS) and balloon sinuplasty, offer minimally invasive options for sinusitis.",
+    "image": "./assets/images/sinus.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Nasal congestion", "Facial pain or pressure", "Thick, discolored mucus", "Reduced sense of smell"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for sinusitis generally involves medical therapy, such as antibiotics or steroids. If the condition becomes chronic and medical therapy is not sufficient, surgical intervention may be required.",
+    "listItems": ["Medications", "Functional endoscopic sinus surgery (FESS)", "Balloon sinuplasty", "Image-guided surgery"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Good personal hygiene", "Humidify indoor air", "Avoid allergens", "Stay well-hydrated"]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Tubal Ligation Treatment in India",
+    "listItems": ["Advanced Treatments", "USFDA approved procedure", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Modern Techniques", "Personalized Care", "Low Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Tubal Ligation & Latest Tubal Ligation",
+    "headers": ["", "Traditional Tubal Ligation", "Latest Tubal Ligation"],
+    "rows": [
+      {"header": "Procedure", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Tubal Ligation?",
+    "content": "Tubal ligation, also known as 'tubectomy' or 'tubes tied,' is a surgical procedure for women who want permanent birth control. During the procedure, the fallopian tubes are sealed, preventing the eggs from traveling down the tubes and sperm from reaching the eggs. Latest techniques, such as laparoscopic tubal ligation, offer a minimally invasive approach compared to traditional methods.",
+    "image": "./assets/images/tubal_ligation.jpg"
+  },
+  "symptoms": {
+    "title": "Reasons to Consider Tubal Ligation",
+    "listItems": ["Permanent birth control", "Medical conditions make pregnancy risky", "Family planning completed", "Alternatives unsuccessful or undesired"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Tubal ligation is a permanent form of birth control, and there are several techniques available for the procedure. Modern approaches, such as laparoscopic or hysteroscopic tubal ligation, offer less invasive alternatives to traditional methods.",
+    "listItems": ["Traditional tubal ligation", "Laparoscopic tubal ligation", "Hysteroscopic tubal ligation", "Bilateral salpingectomy"]
+  },
+  "prevention": {
+    "title": "Risks and Considerations",
+    "listItems": ["Permanent nature", "No protection against STDs", "Surgical complications", "Potential sterilization regret"]
+  }
+}

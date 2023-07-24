@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Carpal Tunnel Treatment in India",
+    "listItems": ["Advanced surgical techniques", "Minimally invasive options", "Minimal Pain", "Quick Recovery", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest Techniques", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["High Precision", "Quick Recovery", "Low Infection Risk", "Improved Hand Function"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Carpal Tunnel Surgery & Latest Carpal Tunnel Treatment Techniques",
+    "headers": ["", "Traditional Surgery", "Latest Techniques"],
+    "rows": [
+      {"header": "Incisions", "values": ["Larger", "Minimal"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Carpal Tunnel Syndrome?",
+    "content": "Carpal tunnel syndrome is a condition that causes pain, numbness, and weakness in the hand and fingers due to the compression of the median nerve at the wrist. It can be treated with conservative therapies, like medication and splinting, but sometimes more advanced treatment options, such as minimally invasive surgery, may be required.",
+    "image": "./assets/images/carpal_tunnel.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Hand pain", "Numbness and tingling", "Weakness", "Difficulty grasping objects"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment options for carpal tunnel syndrome vary depending on the severity of the condition. In some cases, conservative therapies such as medication, splinting, and lifestyle modifications may be recommended. However, in more severe cases, carpal tunnel surgery may be the best option.",
+    "listItems": ["Medication", "Wrist splints", "Lifestyle modifications", "Carpal tunnel surgery"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Regular wrist exercises", "Maintaining a healthy posture", "Taking frequent breaks from repetitive tasks", "Using ergonomic equipment"]
+  }
+}

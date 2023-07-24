@@ -1,0 +1,59 @@
+window.onload = function() {
+    fetch('piles.json')
+        .then(response => response.json())
+        .then(data => loadHTML(data));
+
+    fetch('doctors.json')
+        .then(response => response.json())
+        .then(data => loadDoctors(data));
+};
+
+function loadHTML(data) {
+    // Get the elements in the HTML file
+    let heroWrapper = document.querySelector('.hero-wrapper');
+
+    // Populate the elements with data from JSON
+    // For example, for the heroWrapper:
+    let heroHTML = `<div class="wrapper-content">
+                        <h1>${data.heroWrapper.title}</h1>
+                        <div class="list">`;
+    data.heroWrapper.listItems.forEach(item => {
+        heroHTML += `<div class="list-item">${item}</div>`;
+    });
+    heroHTML += `</div><a href="tel:+919947993876">
+                            <i class="fa-solid fa-phone-volume"></i>
+                            Call for cost estimate now</a></div>`;
+    heroWrapper.innerHTML = heroHTML;
+}
+
+function loadDoctors(doctors) {
+    const doctorsSection = document.querySelector('.doctors');
+    doctors.forEach(doctor => {
+        const doctorElement = document.createElement('div');
+        doctorElement.classList.add('doctor');
+
+        const doctorHTML = `
+            <div class="doctor-img">
+                <img src="${doctor.image}" alt="">
+            </div>
+            <div class="doctor-content">
+                <div class="row">
+                    <h3>${doctor.name}</h3>
+                    <div class="rating">
+                        <i class="fa-solid fa-star"></i>
+                        ${doctor.rating}
+                    </div>
+                </div>
+                <p>${doctor.speciality}</p>
+                <p>${doctor.experience} Years of experience</p>
+                <div class="link-group">
+                    <a href="tel:${doctor.contact}">Contact clinic</a>
+                    <a href="${doctor.appointment_link}">Book appointment</a>
+                </div>
+            </div>
+        `;
+
+        doctorElement.innerHTML = doctorHTML;
+        doctorsSection.appendChild(doctorElement);
+    });
+}

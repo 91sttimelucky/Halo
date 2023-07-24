@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Osteoporosis Treatment in India",
+    "listItems": ["Latest treatment options", "Individualized approach", "Bone health focus", "Preventive care", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest Techniques", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Improved Bone Health", "Fracture Prevention", "Long-term Management", "Increased Quality of Life"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Osteoporosis Treatment & Latest Osteoporosis Treatment Techniques",
+    "headers": ["", "Traditional Treatment", "Latest Techniques"],
+    "rows": [
+      {"header": "Medications", "values": ["Limited", "Expanded options"]},
+      {"header": "Treatment Approach", "values": ["One-size-fits-all", "Individualized"]},
+      {"header": "Nutrition & Supplements", "values": ["Standard", "Advanced recommendations"]},
+      {"header": "Physical Therapy", "values": ["Limited focus", "Targeted exercises"]},
+      {"header": "Long-term Results", "values": ["Variable", "Improved"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Osteoporosis?",
+    "content": "Osteoporosis is a medical condition characterized by a decrease in bone mass and density, leading to an increased risk of fractures. This condition is more common in older individuals, especially postmenopausal women. The primary goal of osteoporosis treatment is to improve bone health, reduce the risk of fractures, and maintain overall quality of life.",
+    "image": "./assets/images/osteoporosis.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Back pain", "Loss of height", "Stooped posture", "Easily fractured bones"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment options for osteoporosis focus on slowing down or preventing bone loss, increasing bone density, and preventing fractures. This can include a combination of medications, nutritional counseling, supplementation, and targeted exercises.",
+    "listItems": ["Medications", "Nutritional counseling", "Supplementation", "Targeted exercises"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Maintain a well-balanced diet", "Regular exercise", "Avoid smoking and excessive alcohol consumption", "Timely bone density tests"]
+  }
+}

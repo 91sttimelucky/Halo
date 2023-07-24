@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Macular Degeneration treatment in India",
+    "listItems": ["Advanced Treatments", "USFDA approved procedure", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Benefits of Our Treatments",
+      "listItems": ["Modern Techniques", "Personalized Care", "Low Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Macular Degeneration Surgery & Latest Macular Degeneration Surgery",
+    "headers": ["", "Traditional Surgery", "Latest Surgery"],
+    "rows": [
+      {"header": "Technique", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Macular Degeneration?",
+    "content": "Macular degeneration is an age-related eye disorder that affects the central part of the retina, called the macula. This condition can lead to a progressive loss of central vision, eventually causing blindness if left untreated. Latest treatments, such as injections and laser therapy, are effective in managing the disease.",
+    "image": "./assets/images/macular_degeneration.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Blurred central vision", "Distorted vision", "Dark areas in the central vision", "Difficulty with colors and contrast"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "There is no cure for macular degeneration, but several treatments are available to slow its progression and manage the symptoms.",
+    "listItems": ["Anti-vascular endothelial growth factor (Anti-VEGF) injections", "Laser therapy", "Photodynamic therapy", "Low vision aids"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Healthy lifestyle", "Regular eye check-ups", "Diet rich in antioxidants and omega-3 fatty acids", "Quit smoking"]
+  }
+}

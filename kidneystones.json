@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Kidney Stones Treatment in India",
+    "listItems": ["Advanced treatments", "Latest Technologies", "Minimal Pain", "Non-invasive options", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Pain-Free, Non-invasive options", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["High Success Rate", "Quick Recovery", "Low Infection Risk", "Patient Satisfaction"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Kidney Stone Surgery (Open Surgery) & Latest Kidney Stone Surgery (Laser Lithotripsy)",
+    "headers": ["", "Open Surgery", "Laser Lithotripsy"],
+    "rows": [
+      {"header": "Invasiveness", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What are Kidney Stones?",
+    "content": "Kidney stones are hard deposits made of minerals and salts that form inside the kidneys. These stones can cause severe pain and discomfort, and sometimes need medical attention when they do not pass naturally.",
+    "image": "./assets/images/kidney-stones.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Severe pain", "Nausea and vomiting", "Blood in urine", "Frequent or painful urination"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for kidney stones depends on the size and location of the stones. Smaller stones can be treated with pain relievers and increased water intake while larger stones may require medical intervention.",
+    "listItems": ["Pain relievers", "Increased water intake", "Medical procedures", "Latest surgery options"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Drink plenty of water", "Maintain a balanced diet", "Limit sodium intake", "Avoid excessive amounts of high-oxalate foods"]
+  }
+}

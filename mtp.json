@@ -1,0 +1,55 @@
+{
+  "speciality": {
+    "title": "Best Medical Termination of Pregnancy in India",
+    "listItems": ["Safe & Confidential", "Experienced Professionals", "Minimal Discomfort", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Patients assisted"},
+      {"value": "50+", "description": "Procedures"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Safe & Confidential", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Privacy Ensured", "Quick Recovery", "Low Complication Risk", "Emotional Support"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Medication Abortion & Surgical Abortion",
+    "headers": ["", "Medication Abortion", "Surgical Abortion"],
+    "rows": [
+      {"header": "Method", "values": ["Medications", "Surgery"]},
+      {"header": "Stage of Pregnancy", "values": ["Up to 10 weeks", "6 to 24 weeks"]},
+      {"header": "Pain Level", "values": ["Mild to Moderate", "Mild to Moderate"]},
+      {"header": "Duration", "values": ["Several days", "Few hours"]},
+      {"header": "Risk of Complications", "values": ["Lower", "Higher"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Medical Termination of Pregnancy?",
+    "content": "Medical Termination of Pregnancy (MTP) refers to the safe and legal termination of an unwanted pregnancy through the use of medications or surgical procedures. The choice of method depends on the stage of pregnancy, patient's preference, and doctor's recommendation.",
+    "image": "./assets/images/medical-termination.jpg"
+  },
+  "symptoms": {
+    "title": "Indications",
+    "listItems": ["Unplanned pregnancy", "Risk to maternal health", "Fetal abnormalities", "Personal reasons"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the stage of pregnancy and the patient's preference, there are two treatment options available for medical termination of pregnancy: medication abortion and surgical abortion.",
+    "listItems": ["Medication abortion", "Surgical abortion"]}
+  ,
+  "prevention": {
+    "title": "Post-Treatment Care",
+    "listItems": ["Follow-up appointments", "Pain management", "Emotional support", "Birth control education"]}
+}

@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Circumcision Treatment in India",
+    "listItems": ["Advanced treatments", "Latest Technologies", "Minimal Pain", "Safe and effective", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Pain-Free Options", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["High Success Rate", "Quick Recovery", "Low Infection Risk", "Patient Satisfaction"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Circumcision Surgery & Latest Circumcision Surgery (Laser Circumcision)",
+    "headers": ["", "Traditional Surgery", "Laser Circumcision"],
+    "rows": [
+      {"header": "Invasiveness", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Circumcision?",
+    "content": "Circumcision is a surgical procedure to remove the foreskin, a fold of skin covering the head of the penis. It is often performed for religious, cultural, or medical reasons.",
+    "image": "./assets/images/circumcision.jpg"
+  },
+  "symptoms": {
+    "title": "Indications for Circumcision",
+    "listItems": ["Phimosis", "Paraphimosis", "Recurrent Balanitis", "Personal or religious reasons"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Circumcision can be performed using traditional surgical methods or newer techniques like laser circumcision. The choice of treatment depends on the individual's preference and the doctor's recommendation.",
+    "listItems": ["Traditional surgical circumcision", "Laser circumcision", "Non-surgical methods", "Other latest surgical options"]
+  },
+  "prevention": {
+    "title": "Post-treatment Care",
+    "listItems": ["Keep the area clean", "Wear loose-fitting clothing", "Avoid strenuous activities", "Follow doctor's instructions"]
+  }
+}

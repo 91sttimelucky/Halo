@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Prostate Enlargement Treatment in India",
+    "listItems": ["Advanced treatments", "Latest Technologies", "Minimal Pain", "Safe and effective", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Minimally invasive options", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["High Success Rate", "Quick Recovery", "Low Infection Risk", "Patient Satisfaction"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Prostate Surgery (TURP) & Latest Prostate Enlargement Surgery (Laser Therapy)",
+    "headers": ["", "TURP", "Laser Therapy"],
+    "rows": [
+      {"header": "Invasiveness", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Prostate Enlargement?",
+    "content": "Prostate enlargement, also known as benign prostatic hyperplasia (BPH), is a common condition in aging men. It occurs when the prostate gland grows in size, causing pressure on the urethra and leading to urinary difficulties.",
+    "image": "./assets/images/prostate.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Frequent urination", "Difficulty starting urination", "Weak urine flow", "Urinary tract infections"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for prostate enlargement depends on the severity of symptoms and the patient's overall health. Options include medication, minimally invasive procedures, and surgery.",
+    "listItems": ["Medication", "Minimally invasive procedures", "Traditional surgery (TURP)", "Latest techniques (laser therapy)"]
+  },
+  "prevention": {
+    "title": "Prevention and Self-care",
+    "listItems": ["Regular check-ups", "Healthy diet", "Physical activity", "Limiting caffeine and alcohol intake"]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Tonsillectomy Treatment in India",
+    "listItems": ["Advanced Treatments", "USFDA approved procedure", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Modern Techniques", "Personalized Care", "Low Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Tonsillectomy & Latest Tonsillectomy",
+    "headers": ["", "Traditional Tonsillectomy", "Latest Tonsillectomy"],
+    "rows": [
+      {"header": "Procedure", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Tonsillectomy?",
+    "content": "Tonsillectomy is a surgical procedure to remove the tonsils, which are small gland-like structures located at the back of the throat. They help to protect the body against infections. Tonsillectomy is often performed when a patient experiences recurrent or chronic tonsillitis, or other tonsil-related complications. Latest treatments, such as laser tonsillectomy and coblation tonsillectomy, offer minimally invasive options compared to traditional procedures.",
+    "image": "./assets/images/tonsillectomy.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Recurrent tonsillitis", "Snoring and sleep apnea", "Difficulty breathing", "Swallowing problems", "Tonsil stones"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for tonsil-related issues may involve medication or surgery, depending on the severity and recurrence of the problem. If surgery is required, there are several options available, including traditional and latest tonsillectomy techniques.",
+    "listItems": ["Medications", "Traditional tonsillectomy", "Laser tonsillectomy", "Coblation tonsillectomy"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Good personal hygiene", "Maintain oral health", "Strengthen immune system", "Stay well-hydrated"]
+  }
+}

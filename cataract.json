@@ -1,0 +1,55 @@
+{
+  "speciality": {
+    "title": "Best Cataract treatment in India",
+    "listItems": ["Latest & Traditional Methods", "Experienced Ophthalmologists", "Minimal Discomfort", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Procedures"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest & Traditional Methods", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["High Accuracy", "Quick Recovery", "Low Complication Risk", "Improved Vision"]}
+    ,
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Cataract Surgery & Latest Cataract Surgery",
+    "headers": ["", "Traditional Surgery", "Latest Treatment"],
+    "rows": [
+      {"header": "Method", "values": ["Extracapsular cataract extraction (ECCE)", "Phacoemulsification or Femtosecond laser-assisted surgery"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Pain Level", "values": ["Mild to Moderate", "Minimal"]},
+      {"header": "Duration of Procedure", "values": ["Longer", "Shorter"]},
+      {"header": "Risk of Complications", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is a Cataract?",
+    "content": "A cataract is a clouding of the natural lens inside the eye, which causes a decrease in vision. Cataracts develop over time and can be caused by aging, injuries, or other factors. Treatment options for cataracts include traditional surgery and the latest minimally invasive procedures.",
+    "image": "./assets/images/cataract.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Blurry vision", "Difficulty with night vision", "Sensitivity to light", "Appearance of halos around lights"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the severity of the cataract and the patient's preference, there are different treatment options available for cataracts. These include traditional surgery, such as extracapsular cataract extraction (ECCE), and the latest methods, like phacoemulsification or femtosecond laser-assisted surgery.",
+    "listItems": ["Traditional cataract surgery", "Latest cataract surgery"]}
+  ,
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Regular eye exams", "Wearing sunglasses", "Managing chronic conditions", "Avoiding smoking or excessive alcohol"]}
+}

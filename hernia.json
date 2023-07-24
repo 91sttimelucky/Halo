@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Laparoscopic Hernia Surgery in India",
+    "listItems": ["Advanced treatments", "Latest Technologies", "Minimal pain and scarring", "Safe and effective", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Minimally invasive surgery", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgery Benefits",
+      "listItems": ["High Success Rate", "Quick Recovery", "Low Infection Risk", "Patient Satisfaction"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Open Hernia Repair & Laparoscopic Hernia Repair",
+    "headers": ["", "Traditional Hernia Repair", "Laparoscopic Hernia Repair"],
+    "rows": [
+      {"header": "Invasiveness", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Laparoscopic Hernia Surgery?",
+    "content": "Laparoscopic hernia surgery, also known as keyhole hernia repair, is a minimally invasive surgical procedure used to repair a hernia, which occurs when an organ or fatty tissue pushes through a weak spot in the surrounding muscle or connective tissue.",
+    "image": "./assets/images/laparoscopic-hernia.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms of a Hernia",
+    "listItems": ["Visible bulge or swelling", "Pain or discomfort", "Weakness or pressure in the affected area", "Nausea or vomiting in bowel obstruction"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Hernia repair is typically carried out through surgery. There are two main types of hernia surgery: traditional open hernia repair and laparoscopic hernia repair. The latter involves smaller incisions, faster recovery, and less postoperative pain.",
+    "listItems": ["Traditional open hernia repair", "Minimally invasive surgery (Laparoscopic hernia repair)"]
+  },
+  "prevention": {
+    "title": "Post-operative Care",
+    "listItems": ["Follow doctor's instructions", "Gradually resume normal activities", "Keep the incision site clean", "Report any complications to your doctor"]
+  }
+}

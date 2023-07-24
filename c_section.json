@@ -1,0 +1,55 @@
+{
+  "speciality": {
+    "title": "Best C-Section delivery in India",
+    "listItems": ["Traditional & Latest Methods", "Experienced Obstetricians", "Minimal Scarring", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy mothers"},
+      {"value": "50+", "description": "Procedures"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest & Traditional Methods", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgery Benefits",
+      "listItems": ["High Accuracy", "Quick Healing", "Low Infection Risk", "Minimal Scarring"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional C-Section & Latest C-Section",
+    "headers": ["", "Traditional Surgery", "Latest Treatment"],
+    "rows": [
+      {"header": "Incisions", "values": ["Transverse or Vertical", "Low Transverse"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is a C-Section?",
+    "content": "A C-section, or cesarean section, is a surgical procedure in which incisions are made through a mother's abdomen and uterus to deliver a baby. It can be performed using traditional or the latest methods, depending on the patient's preference and obstetrician's recommendation.",
+    "image": "./assets/images/c-section.jpg"
+  },
+  "symptoms": {
+    "title": "Indications",
+    "listItems": ["Fetal distress", "Prolonged labor", "Large baby", "Breech position", "Placenta problems"]}
+  ,
+  "treatment": {
+    "title": "C-Section Procedure",
+    "content": "For a C-section delivery, the mother is given anesthesia, either spinal or epidural, to numb the lower half of her body. The obstetrician will then make an incision in the abdomen and uterus to deliver the baby.",
+    "listItems": ["Regional anesthesia", "Abdominal incision", "Uterine incision", "Delivery"]}
+  ,
+  "prevention": {
+    "title": "Post-Operative Care",
+    "listItems": ["Pain management", "Wound care", "Rest and recovery", "Breastfeeding support"]}
+}

@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Diabetic Retinopathy treatment in India",
+    "listItems": ["Advanced laser treatment", "USFDA approved procedure", "Minimal Pain", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Pain-Free, No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Laser Benefits",
+      "listItems": ["High Accuracy", "Quick Healing", "Low Infection Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Diabetic Retinopathy Surgery & Latest Diabetic Retinopathy Surgery",
+    "headers": ["", "Traditional Surgery", "Latest Surgery"],
+    "rows": [
+      {"header": "Incisions", "values": ["Multiple", "Minimal"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Diabetic Retinopathy?",
+    "content": "Diabetic retinopathy is a diabetes-related complication that affects the blood vessels in the retina, the light-sensitive tissue at the back of the eye. If left untreated, it can lead to vision loss and even blindness. Laser treatment offers a minimally invasive and effective solution to manage this condition.",
+    "image": "./assets/images/diabetic_retinopathy.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Blurred vision", "Floaters (spots)", "Dark areas in the field of vision", "Difficulty with colors"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the severity of diabetic retinopathy, treatment options vary. Laser surgery is one of the most effective treatments for this condition.",
+    "listItems": ["Regular monitoring", "Laser surgery", "Vitrectomy", "Injections"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Managing diabetes", "Regular eye check-ups", "Healthy lifestyle", "Control blood sugar, blood pressure, and cholesterol"]
+  }
+}

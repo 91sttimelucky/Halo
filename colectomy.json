@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Colectomy treatment in India",
+    "listItems": ["Latest laparoscopic technique", "Traditional open surgery", "Minimal Pain", "Quick Recovery", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest Techniques", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgery Benefits",
+      "listItems": ["High Precision", "Quick Recovery", "Low Infection Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Laparoscopic Colectomy & Open Colectomy",
+    "headers": ["", "Open Colectomy", "Laparoscopic Colectomy"],
+    "rows": [
+      {"header": "Incisions", "values": ["Larger", "Minimal"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Colectomy?",
+    "content": "Colectomy is a surgical procedure to remove a part or the entire colon. It can be performed to treat various conditions, such as colon cancer, diverticulitis, or inflammatory bowel disease. There are two main types of colectomy, traditional open surgery, and the minimally invasive laparoscopic technique.",
+    "image": "./assets/images/colectomy.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Abdominal pain", "Changes in bowel habits", "Blood in stool", "Unexplained weight loss"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the severity of the condition, several treatments are available for patients requiring a colectomy. The choice between laparoscopic and open surgery will be determined by the patient's overall health and specific conditions.",
+    "listItems": ["Medication management", "Non-surgical procedures", "Open colectomy", "Laparoscopic colectomy"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Healthy diet", "Regular exercise", "Staying hydrated", "Timely medical checkups"]
+  }
+}

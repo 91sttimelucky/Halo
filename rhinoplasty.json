@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Rhinoplasty in India",
+    "listItems": ["Advanced surgical techniques", "Customized approach", "Minimal Scarring", "Quick Recovery", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Latest Techniques", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgery Benefits",
+      "listItems": ["Natural Results", "Quick Recovery", "Improved Appearance", "Increased Self-Confidence"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Rhinoplasty & Latest Rhinoplasty Techniques",
+    "headers": ["", "Traditional Rhinoplasty", "Latest Techniques"],
+    "rows": [
+      {"header": "Incisions", "values": ["More Visible", "Minimal"]},
+      {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Natural Results", "values": ["Less Likely", "More Likely"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Rhinoplasty?",
+    "content": "Rhinoplasty, commonly known as a nose job, is a surgical procedure that reshapes and enhances the appearance of the nose. It can be performed to correct structural deformities, improve breathing, or for cosmetic purposes. With the latest techniques, surgeons can achieve more natural results and quicker recovery times.",
+    "image": "./assets/images/rhinoplasty.jpg"
+  },
+  "symptoms": {
+    "title": "Indications",
+    "listItems": ["Nasal deformity", "Breathing difficulties", "Nose injury", "Dissatisfaction with appearance"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Rhinoplasty is a highly personalized procedure that should be tailored to the unique needs and goals of each patient. The surgeon will carefully evaluate the patient's specific concerns and discuss available treatment options to achieve the desired results.",
+    "listItems": ["Non-surgical rhinoplasty", "Open rhinoplasty", "Closed rhinoplasty", "Revision rhinoplasty"]
+  },
+  "prevention": {
+    "title": "Post-Operative Care",
+    "listItems": ["Proper wound care", "Avoiding strenuous activities", "Following surgeon's instructions", "Wearing a nasal splint as required"]
+  }
+}

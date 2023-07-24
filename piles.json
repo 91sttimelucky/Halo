@@ -1,0 +1,57 @@
+{
+    "speciality": {
+      "title": "Best Piles treatment in India",
+      "listItems": ["Advanced laser treatment", "USFDA approved procedure", "Minimal Pain", "No Stitches", "All Insurance Accepted", "No-Cost EMI"]
+    },
+    "impact-metrics": {
+      "metrics": [
+        {"value": "10000+", "description": "Happy patients"},
+        {"value": "50+", "description": "Diseases"},
+        {"value": "10+ Years", "description": "Experience"}
+      ]
+    },
+    "listing-groups": [
+      {
+        "title": "Why Choose Us?",
+        "listItems": ["Pain-Free, No Stitches", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+      },
+      {
+        "title": "Our Laser Benefits",
+        "listItems": ["High Accuracy", "Quick Healing", "Low Infection Risk", "Comfort Assured"]
+      },
+      {
+        "title": "We Are the Best",
+        "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+      }
+    ],
+    "comparison": {
+      "title": "Comparing Laser Piles Surgery & Open Piles Surgery",
+      "headers": ["", "Open Surgery", "Laser Treatment"],
+      "rows": [
+        {"header": "Incisions", "values": ["Multiple", "Minimal"]},
+        {"header": "Recovery Time", "values": ["Longer", "Faster"]},
+        {"header": "Pain Level", "values": ["Higher", "Lower"]},
+        {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+        {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+      ]
+    },
+    "definition": {
+      "title": "What is Piles?",
+      "content": "Piles, also known as hemorrhoids, are swollen veins in the rectal area that can cause discomfort, itching, and sometimes bleeding. Depending on their location, piles can be internal or external. Laser treatment offers a minimally invasive and effective solution to this condition.",
+      "image": "./assets/images/piles.jpg"
+    },
+    "symptoms": {
+      "title": "Symptoms",
+      "listItems": ["Itchy rectum", "Painful bowel movements", "Blood in stool", "Swelling near anus"]
+    },
+    "treatment": {
+      "title": "Treatment Options",
+      "content": "When home remedies do not work, consulting a specialist becomes necessary. Several treatments are available for piles, with laser surgery being the most effective.",
+      "listItems": ["Home remedies", "Over-the-counter meds", "Non-surgical procedures", "Laser surgery"]
+    },
+    "prevention": {
+      "title": "Prevention",
+      "listItems": ["Low fiber diet", "Regular exercise", "Staying hydrated", "Avoid straining"]
+    }
+  }
+  

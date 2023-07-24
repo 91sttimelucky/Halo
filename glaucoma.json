@@ -1,0 +1,55 @@
+{
+  "speciality": {
+    "title": "Best Glaucoma treatment in India",
+    "listItems": ["Medications, Laser & Surgery", "Experienced Ophthalmologists", "Effective Management", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Procedures"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Comprehensive Glaucoma Care", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Slowing Disease Progression", "Minimally Invasive Options", "Vision Preservation", "Tailored Treatment Plans"]}
+    ,
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Individualized Care", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Glaucoma Treatments",
+    "headers": ["", "Medications", "Laser Treatment", "Surgery"],
+    "rows": [
+      {"header": "Invasiveness", "values": ["Non-invasive", "Minimally invasive", "Invasive"]},
+      {"header": "Effectiveness", "values": ["Variable", "Moderate", "High"]},
+      {"header": "Duration", "values": ["Long-term use", "Single procedure", "Single procedure"]},
+      {"header": "Side Effects", "values": ["Mild to moderate", "Minimal", "Potential complications"]},
+      {"header": "Cost", "values": ["Lower (ongoing)", "Moderate", "Higher (one-time)"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Glaucoma?",
+    "content": "Glaucoma is a group of eye diseases that damage the optic nerve, which is essential for good vision. It is usually caused by elevated intraocular pressure (IOP) in the eye. Early detection and treatment can slow down the progression of the disease and help preserve vision.",
+    "image": "./assets/images/glaucoma.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Gradual loss of peripheral vision", "Blind spots in the visual field", "Severe eye pain", "Nausea and vomiting"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the type and severity of glaucoma, various treatment options are available, including medications (eye drops or pills), laser treatment, and surgery. The goal is to lower the intraocular pressure, slowing the progression of the disease.",
+    "listItems": ["Medications", "Laser treatment", "Surgery"]}
+  ,
+  "prevention": {
+    "title": "Prevention & Monitoring",
+    "listItems": ["Regular eye exams", "Healthy lifestyle", "Exercise regularly", "Control systemic conditions (e.g., diabetes, high blood pressure)"]}
+}

@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Breast Augmentation in India",
+    "listItems": ["Advanced surgical methods", "Latest technology", "Natural look and feel", "Experienced surgeons", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Natural Look & Feel", "Wide Range of Implant Options", "Customized Procedure", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgical Benefits",
+      "listItems": ["High Precision", "Quick Recovery", "Low Infection Risk", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Silicone Implants & Saline Implants",
+    "headers": ["", "Silicone Implants", "Saline Implants"],
+    "rows": [
+      {"header": "Material", "values": ["Silicone Gel", "Sterile Salt Water"]},
+      {"header": "Feel", "values": ["More Natural", "Less Natural"]},
+      {"header": "Rupture Detection", "values": ["MRI required", "Easily detected"]},
+      {"header": "Age Requirement", "values": ["22+", "18+"]},
+      {"header": "Incision Size", "values": ["Larger", "Smaller"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Breast Augmentation?",
+    "content": "Breast augmentation is a cosmetic procedure that involves the enhancement of the breasts by using implants or fat transfer to achieve a fuller, more balanced look. The procedure is popular among women who have lost breast volume due to weight loss, pregnancy, or aging, as well as those who wish to enhance their natural breast size.",
+    "image": "./assets/images/breast_augmentation.jpg"
+  },
+  "symptoms": {
+    "title": "Candidates for Breast Augmentation",
+    "listItems": ["Small or uneven breasts", "Loss of breast volume after pregnancy or weight loss", "Desire for a fuller bust"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Breast augmentation can be performed using different techniques, including the insertion of silicone or saline implants, or fat transfer. The best approach depends on the patient's preferences, body type, and desired results.",
+    "listItems": ["Silicone implants", "Saline implants", "Fat transfer", "Breast lift combined with augmentation"]
+  },
+  "prevention": {
+    "title": "Maintaining Results",
+    "listItems": ["Wearing a supportive bra", "Maintaining a stable weight", "Regular checkups with your surgeon", "Avoid smoking"]
+  }
+}

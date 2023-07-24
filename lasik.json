@@ -1,0 +1,55 @@
+{
+  "speciality": {
+    "title": "Best LASIK treatment in India",
+    "listItems": ["Customized LASIK", "Experienced Ophthalmologists", "High Success Rates", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Procedures"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Customized LASIK", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our LASIK Benefits",
+      "listItems": ["High Accuracy", "Quick Recovery", "Minimal Discomfort", "Improved Vision"]}
+    ,
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Standard LASIK & Customized LASIK",
+    "headers": ["", "Standard LASIK", "Customized LASIK"],
+    "rows": [
+      {"header": "Method", "values": ["Conventional technique", "Wavefront-guided or Topography-guided techniques"]},
+      {"header": "Accuracy", "values": ["Standard correction", "Higher precision"]},
+      {"header": "Night Vision", "values": ["Possible glare or halos", "Reduced glare or halos"]},
+      {"header": "Cost", "values": ["Lower", "Higher"]},
+      {"header": "Suitability", "values": ["Most patients", "Patients with specific corneal irregularities"]}
+    ]
+  },
+  "definition": {
+    "title": "What is LASIK?",
+    "content": "LASIK (Laser-Assisted in Situ Keratomileusis) is a type of refractive eye surgery used to correct common vision problems such as nearsightedness, farsightedness, and astigmatism. The procedure involves reshaping the cornea using a laser, allowing light to enter the eye and properly focus on the retina for improved vision.",
+    "image": "./assets/images/lasik.jpg"
+  },
+  "symptoms": {
+    "title": "Indications",
+    "listItems": ["Nearsightedness", "Farsightedness", "Astigmatism", "Desire to reduce dependence on glasses or contact lenses"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Depending on the patient's specific vision issues and the shape of their cornea, different LASIK techniques can be used. These include standard LASIK and customized LASIK, which can provide more precise vision correction for certain patients.",
+    "listItems": ["Standard LASIK", "Customized LASIK"]}
+  ,
+  "prevention": {
+    "title": "Post-Operative Care",
+    "listItems": ["Resting after surgery", "Avoiding eye strain", "Wearing sunglasses", "Avoiding eye rubbing"]}
+}

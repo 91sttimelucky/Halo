@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Urinary Incontinence Treatment in India",
+    "listItems": ["Advanced treatments", "Latest Technologies", "Tailored therapies", "Non-surgical options", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Personalized treatments", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["High Success Rate", "Improved Quality of Life", "Low-risk Options", "Patient Satisfaction"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Incontinence Treatment & Latest Urinary Incontinence Treatments",
+    "headers": ["", "Traditional Treatment", "Latest Treatments"],
+    "rows": [
+      {"header": "Effectiveness", "values": ["Variable", "Higher"]},
+      {"header": "Invasiveness", "values": ["Invasive", "Less Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Risk of Complications", "values": ["Higher", "Lower"]},
+      {"header": "Tailored Approach", "values": ["Limited", "More Likely"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Urinary Incontinence?",
+    "content": "Urinary incontinence is a common condition where a person loses control over their bladder, resulting in the involuntary leakage of urine. It can be caused by various factors, including aging, pregnancy, nerve damage, or other medical conditions.",
+    "image": "./assets/images/incontinence.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Involuntary leakage of urine", "Frequent urination", "Sudden urge to urinate", "Difficulty emptying the bladder completely"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for urinary incontinence depends on the type and severity of the condition. Options include lifestyle changes, medications, non-surgical procedures, and surgery.",
+    "listItems": ["Lifestyle changes", "Medications", "Non-surgical procedures", "Traditional surgery", "Latest techniques"]
+  },
+  "prevention": {
+    "title": "Prevention and Self-care",
+    "listItems": ["Kegel exercises", "Maintaining a healthy weight", "Avoiding bladder irritants", "Timed urination schedule"]
+  }
+}

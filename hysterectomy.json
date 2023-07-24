@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Hysterectomy Surgery in India",
+    "listItems": ["Advanced treatments", "Latest Technologies", "Minimal pain and scarring", "Safe and effective", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Minimally invasive options", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Surgery Benefits",
+      "listItems": ["High Success Rate", "Quick Recovery", "Low Infection Risk", "Patient Satisfaction"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Open Hysterectomy & Laparoscopic Hysterectomy",
+    "headers": ["", "Traditional Open Hysterectomy", "Laparoscopic Hysterectomy"],
+    "rows": [
+      {"header": "Invasiveness", "values": ["Invasive", "Minimally Invasive"]},
+      {"header": "Recovery Time", "values": ["Longer", "Shorter"]},
+      {"header": "Pain Level", "values": ["Higher", "Lower"]},
+      {"header": "Scarring", "values": ["More Likely", "Less Likely"]},
+      {"header": "Risk of Infection", "values": ["Higher", "Lower"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Hysterectomy?",
+    "content": "Hysterectomy is a surgical procedure to remove all or part of a woman's uterus, and in some cases, the ovaries and fallopian tubes. It is performed to treat various conditions such as fibroids, endometriosis, cancer, or uterine prolapse.",
+    "image": "./assets/images/hysterectomy.jpg"
+  },
+  "symptoms": {
+    "title": "Indications for Hysterectomy",
+    "listItems": ["Uterine fibroids", "Endometriosis", "Uterine prolapse", "Abnormal vaginal bleeding", "Cancer of the uterus, ovaries, or cervix"]}
+  ,
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Hysterectomy can be performed through different methods, including traditional open surgery, laparoscopic surgery, or robotic-assisted surgery. The choice of treatment depends on the patient's condition and the surgeon's recommendation.",
+    "listItems": ["Traditional open hysterectomy", "Laparoscopic hysterectomy", "Robotic-assisted hysterectomy", "Vaginal hysterectomy"]
+  },
+  "prevention": {
+    "title": "Post-operative Care",
+    "listItems": ["Follow doctor's instructions", "Gradually resume normal activities", "Keep the incision site clean", "Report any complications to your doctor"]
+  }
+}

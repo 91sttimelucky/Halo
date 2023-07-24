@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Erectile Dysfunction Treatment in India",
+    "listItems": ["Advanced treatments", "Latest Technologies", "Personalized therapies", "Safe and effective", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Customized treatments", "All Insurances Accepted", "No-Cost EMIs", "Expert Professionals"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["High Success Rate", "Improved Quality of Life", "Confidentiality Assured", "Patient Satisfaction"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Erectile Dysfunction Treatment & Latest Erectile Dysfunction Treatments",
+    "headers": ["", "Traditional Treatment", "Latest Treatments"],
+    "rows": [
+      {"header": "Effectiveness", "values": ["Variable", "Higher"]},
+      {"header": "Invasiveness", "values": ["Invasive", "Less Invasive"]},
+      {"header": "Side Effects", "values": ["More Likely", "Less Likely"]},
+      {"header": "Tailored Approach", "values": ["Limited", "More Likely"]},
+      {"header": "Speed of Results", "values": ["Slower", "Faster"]}
+    ]
+  },
+  "definition": {
+    "title": "What is Erectile Dysfunction?",
+    "content": "Erectile dysfunction (ED) is the inability to achieve or maintain an erection firm enough for sexual intercourse. It can be caused by various factors such as diabetes, heart disease, stress, anxiety, or lifestyle habits.",
+    "image": "./assets/images/erectile-dysfunction.jpg"
+  },
+  "symptoms": {
+    "title": "Symptoms",
+    "listItems": ["Difficulty getting an erection", "Difficulty maintaining an erection", "Reduced libido", "Premature or delayed ejaculation"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "Treatment for erectile dysfunction depends on the cause and severity of the condition. Options include lifestyle changes, medications, vacuum devices, and surgical interventions.",
+    "listItems": ["Lifestyle changes", "Medications", "Vacuum devices", "Surgical implants", "Latest non-surgical therapies"]
+  },
+  "prevention": {
+    "title": "Prevention",
+    "listItems": ["Maintain a healthy lifestyle", "Regular exercise", "Stress reduction techniques", "Managing chronic health conditions"]
+  }
+}

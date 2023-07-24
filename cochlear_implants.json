@@ -1,0 +1,56 @@
+{
+  "speciality": {
+    "title": "Best Cochlear Implant Treatment in India",
+    "listItems": ["Advanced Treatments", "USFDA approved procedure", "Improved Hearing", "All Insurance Accepted", "No-Cost EMI"]
+  },
+  "impact-metrics": {
+    "metrics": [
+      {"value": "10000+", "description": "Happy patients"},
+      {"value": "50+", "description": "Diseases"},
+      {"value": "10+ Years", "description": "Experience"}
+    ]
+  },
+  "listing-groups": [
+    {
+      "title": "Why Choose Us?",
+      "listItems": ["Expert Professionals", "All Insurances Accepted", "No-Cost EMIs", "Personalized Care"]
+    },
+    {
+      "title": "Our Treatment Benefits",
+      "listItems": ["Improved Hearing", "Enhanced Quality of Life", "Customized Solutions", "Comfort Assured"]
+    },
+    {
+      "title": "We Are the Best",
+      "listItems": ["Advanced Technology", "Tailored Plans", "Excellent Service", "Proven Success"]
+    }
+  ],
+  "comparison": {
+    "title": "Comparing Traditional Hearing Aids & Cochlear Implants",
+    "headers": ["", "Traditional Hearing Aids", "Cochlear Implants"],
+    "rows": [
+      {"header": "Function", "values": ["Amplifies Sound", "Bypasses Damaged Hair Cells"]},
+      {"header": "Suitability", "values": ["Mild to Severe Hearing Loss", "Severe to Profound Hearing Loss"]},
+      {"header": "Clarity of Sound", "values": ["Variable", "Better"]},
+      {"header": "Surgery", "values": ["Not Required", "Required"]},
+      {"header": "Cost", "values": ["Lower", "Higher"]}
+    ]
+  },
+  "definition": {
+    "title": "What are Cochlear Implants?",
+    "content": "Cochlear implants are medical devices designed to help individuals with severe to profound hearing loss by bypassing the damaged part of the inner ear and directly stimulating the auditory nerve. Unlike traditional hearing aids, which amplify sound, cochlear implants are surgically implanted and can restore a sense of hearing to those with profound hearing loss.",
+    "image": "./assets/images/cochlear_implants.jpg"
+  },
+  "symptoms": {
+    "title": "Indications for Cochlear Implants",
+    "listItems": ["Severe to profound hearing loss", "Limited benefit from hearing aids", "Difficulty understanding speech", "Impact on quality of life"]
+  },
+  "treatment": {
+    "title": "Treatment Options",
+    "content": "For those with severe to profound hearing loss who do not benefit from traditional hearing aids, cochlear implants may be an effective solution. The process involves surgical implantation of the device, followed by programming and adjustments to optimize results.",
+    "listItems": ["Cochlear implant evaluation", "Surgical implantation", "Device activation and programming", "Aural rehabilitation and support"]
+  },
+  "prevention": {
+    "title": "Factors Affecting Success",
+    "listItems": ["Age at implantation", "Duration of hearing loss", "Consistent device use", "Aural rehabilitation and support", "Realistic expectations"]
+  }
+}
